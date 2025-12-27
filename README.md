@@ -2,105 +2,88 @@
 
 <div align="center" style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; color:#1f2937;">
 
-  <h1 style="margin-bottom:0; font-size:32px;">Andrés Felipe Rendón Nieto</h1>
-  <p style="margin-top:6px; font-size:16px; color:#4b5563;">
-    Desarrollador Backend Java · Arquitectura Limpia · Microservicios
+  <h1 style="margin-bottom:0; font-size:32px;">Hola, Soy Andrés Felipe Rendón Nieto
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Backend%20Java;Microservicios;Cloud;Arquitectura%20Limpia;&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
+
+<!-- ABOUT ME -->
+<div style="font-family:'Segoe UI', Roboto, Arial, sans-serif; color:#1f2937; max-width:720px;">
+
+  <h2 style="display:flex; gap:10px;">
+    Acerca Mío
+  </h2>
+
+  <p style="line-height:1.7; font-size:15px;">
+    Hola, soy <strong>Andrés</strong>, un <strong>desarrollador backend apasionado por construir software sólido, limpio y bien estructurado</strong>. 
+    Trabajo principalmente con <strong>Java, Spring Boot y Quarkus</strong>, desarrollando <strong>APIs REST y microservicios</strong> diseñados para escalar 
+    y mantenerse confiables en entornos productivos, inglés B1.
   </p>
 
-  <br/>
+  <p style="line-height:1.7; font-size:15px;">
+    Actualmente curso el <strong>último semestre de Ingeniería de Sistemas y Computación</strong> en la 
+    <strong>Universidad del Quindío</strong>. Disfruto profundizar en <strong>arquitectura limpia</strong>, 
+    <strong>patrones de diseño</strong> y buenas prácticas de backend, siempre buscando entender el 
+    <strong>porqué</strong> detrás de cada decisión técnica.
+  </p>
 
-  <p style="max-width:700px; font-size:15px; line-height:1.6; color:#374151;">
-    Desarrollador <strong>Backend Java</strong> con más de <strong>3 años de experiencia profesional</strong> construyendo 
-    <strong>APIs REST</strong> y <strong>microservicios</strong> en entornos productivos. 
-    Especializado en <strong>arquitectura limpia</strong>, buenas prácticas de ingeniería y desarrollo de sistemas 
-    escalables, mantenibles y orientados a la calidad.
+  <p style="line-height:1.7; font-size:15px;">
+    Me motiva optimizar rendimiento, mejorar la calidad del código y automatizar procesos usando 
+    <strong>Docker</strong>, <strong>CI/CD</strong> y <strong>AWS</strong>. Estoy en constante aprendizaje, 
+    con el objetivo de crecer como ingeniero y aportar valor real a los equipos y productos en los que participo.
   </p>
 
 </div>
 
 <hr style="border:none; height:1px; background:#e5e7eb; margin:32px 0;"/>
 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amusas&theme=github_dark)
+
 <h2 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">🛠️ Stack Tecnológico</h2>
+<h3 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">Lenguajes</h3>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Lenguajes & Frameworks</h4>
-      <ul>
-        <li>Java · Spring Boot · Quarkus</li>
-        <li>Python</li>
-        <li>Node.js</li>
-      </ul>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-  <h4>Arquitectura & Backend</h4>
-  <ul>
-    <li>Microservicios</li>
-    <li>APIs RESTful</li>
-    <li>Arquitectura Limpia</li>
-    <li>Arquitectura Hexagonal</li>
-    <li>DDD & POO</li>
-    <li>Patrones de Diseño</li>
-  </ul>
-</td>
+<h3 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">FrameWorks</h3>
 
-<td width="50%" valign="top">
-  <h4>Cloud & DevOps</h4>
-  <ul>
-    <li>AWS: EC2, RDS, S3, DynamoDB</li>
-    <li>Lambda & API Gateway</li>
-    <li>Docker</li>
-    <li>CI/CD con Jenkins</li>
-  </ul>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-  <h4>Calidad & Testing</h4>
-  <ul>
-    <li>JUnit 5</li>
-    <li>Pruebas Unitarias</li>
-    <li>Documentación con OpenAPI</li>
-  </ul>
-</td>
-</tr>
-</table>
+<h3 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">Bases de Datos</h3>
 
-<hr style="border:none; height:1px; background:#e5e7eb; margin:32px 0;"/>
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">📌 Impacto Profesional</h2>
 
-<ul style="line-height:1.8;">
-  <li>Desarrollo y mantenimiento de <strong>microservicios en producción</strong> con Spring Boot y Quarkus.</li>
-  <li>Mejora del <strong>rendimiento de APIs en un 30%</strong> mediante optimización de consultas y flujos backend.</li>
-  <li>Reducción de <strong>errores en producción en un 25%</strong> implementando pruebas unitarias.</li>
-  <li>Automatización de despliegues, reduciendo intervenciones manuales en un <strong>40%</strong>.</li>
-</ul>
+<h3 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">Cloud</h3>
 
-<hr style="border:none; height:1px; background:#e5e7eb; margin:32px 0;"/>
-
-<h2 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">🎯 Enfoque Profesional</h2>
-
-<ul style="line-height:1.8;">
-  <li>Código limpio, legible y mantenible</li>
-  <li>Diseño de arquitecturas backend escalables</li>
-  <li>Performance, estabilidad y confiabilidad</li>
-  <li>Mejora continua y crecimiento técnico</li>
-</ul>
-
-<hr style="border:none; height:1px; background:#e5e7eb; margin:32px 0;"/>
-
-<h2 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">🌍 Idiomas</h2>
-
-<ul>
-  <li>Español: Nativo</li>
-  <li>Inglés: Avanzado</li>
-</ul>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+ </div>
+ 
+</div>
 
 <hr style="border:none; height:1px; background:#e5e7eb; margin:32px 0;"/>
 
 <h2 style="font-family:'Segoe UI', Roboto, Arial, sans-serif;">📫 Contacto</h2>
-
-<ul>
-  <li>Email: <strong>andresrendonaf@gmail.com</strong></li>
-  <li>Ubicación: Colombia</li>
-</ul>
+<div align="center">
+<a href="mailto:andresrendonaf@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.link/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 <br/>
 
